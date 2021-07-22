@@ -1,5 +1,5 @@
 {
-  "name": "report_Server_side_rendering",
+  "name": "server_side_rendering",
   "version": "1.0.0",
   "description": "sample server side rendering ",
   "main": "index.js",
